@@ -1,2 +1,3 @@
-# codewars
-Codewars https://www.codewars.com
+# Codewars :muscle:
+
+A repo for Codewars but I write my own tests.
